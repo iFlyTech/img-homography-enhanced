@@ -1,3 +1,3 @@
 # Enhanced Image Homography
 
-We aim to estimate homography, solve homog
+We aim to estimate homography, solve homography 
