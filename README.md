@@ -4,4 +4,4 @@ We aim to estimate homography, solve homography matrix, and map images to the ta
 
 - homography.py
 	- Estimating homography
-	- Sol
+	- Solving h
