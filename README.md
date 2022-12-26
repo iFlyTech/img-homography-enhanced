@@ -6,4 +6,4 @@ We aim to estimate homography, solve homography matrix, and map images to the ta
 	- Estimating homography
 	- Solving homography matrix
 	- Mapping five images to the target surface
-	- Original i
+	- Original ima
