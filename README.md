@@ -14,4 +14,4 @@ We aim to estimate homography, solve homography matrix, and map images to the ta
 - qrcode.py
 	- Unwarp qrcode from screen
 	- Utilize Backward Warping
-	- Original i
+	- Original ima
